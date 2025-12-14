@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer | Former Web Developer Intern | Web & AI Enthusiast from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=adityapatil1392&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=AdityaPatil171&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -18,8 +18,8 @@
 - 🔭 Currently building an **Artificial Virtual Assistant**
 - 🌱 Learning **REST APIs, backend integration, and scalable system design**
 - 💡 Interested in **Web Development, AI-powered apps, and problem-solving**
-- 📫 Reach me at **adityapatil@gmail.com**
-- 📂 Projects: [GitHub Repositories](https://github.com/AdityaPatil171/AdityaPatil171/)
+- 📫 Reach me at **adityapatil1392@gmail.com**
+- 📂 Projects: [GitHub Repositories](https://github.com/AdityaPatil171/)
 
 </td>
 
@@ -32,7 +32,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/adityapatil" target="_blank">
+  <a href="https://github.com/AdityaPatil171/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   </a>
 </p>
