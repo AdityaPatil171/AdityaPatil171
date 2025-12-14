@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Patil</h1>
-<h3 align="center">Frontend Developer | Web Enthusiast from India 🇮🇳</h3>
+<h3 align="center">Full Stack Developer | Former Web Developer Intern | Web & AI Enthusiast from India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adityapatil&label=Profile%20views&color=0e75b6&style=flat" />
@@ -13,9 +13,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **Artificial Virtual Assistant**
-- 🌱 Learning **React.js, Node.js, REST APIs**
-- 💡 Interested in **Frontend, Web Apps & AI integration**
+- 💻 **Full Stack Developer** with hands-on experience in **HTML, CSS, JavaScript, React, Node.js, and MongoDB**
+- 🏢 **Former Web Developer Intern**, worked on real-world dashboards and web applications
+- 🔭 Currently working on an **Artificial Virtual Assistant**
+- 🌱 Actively learning **backend APIs, system integration, and scalable web architectures**
+- 💡 Interested in **Web Development, AI-powered apps, and problem-solving**
 - 📫 Reach me at **adityapatil@gmail.com**
 - 📂 Projects: [GitHub Repositories](https://github.com/adityapatil)
 
@@ -44,6 +46,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
