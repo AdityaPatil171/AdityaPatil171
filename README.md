@@ -13,10 +13,10 @@
 
 ### 👨‍💻 About Me
 
-- 💻 **Full Stack Developer** with hands-on experience in **HTML, CSS, JavaScript, React, Node.js, and MongoDB**
-- 🏢 **Former Web Developer Intern**, worked on real-world dashboards and web applications
-- 🔭 Currently working on an **Artificial Virtual Assistant**
-- 🌱 Actively learning **backend APIs, system integration, and scalable web architectures**
+- 💻 **Full Stack Developer** skilled in **HTML, CSS, JavaScript, React, Node.js, Python, and MongoDB**
+- 🏢 **Former Web Developer Intern**, worked on real-world dashboards and production-level web applications
+- 🔭 Currently building an **Artificial Virtual Assistant**
+- 🌱 Learning **REST APIs, backend integration, and scalable system design**
 - 💡 Interested in **Web Development, AI-powered apps, and problem-solving**
 - 📫 Reach me at **adityapatil@gmail.com**
 - 📂 Projects: [GitHub Repositories](https://github.com/adityapatil)
@@ -30,6 +30,10 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/aditya-patil-89a11a250" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/adityapatil" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   </a>
 </p>
 
@@ -54,8 +58,9 @@
 
 ---
 
-### 📊 Most Used Languages
+### ✨ Professional Summary
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityapatil&layout=compact&theme=tokyonight" />
-</p>
+- 🚀 Strong foundation in **full-stack web development**
+- 🧠 Experience working in **internship environments with real deliverables**
+- 🛠️ Comfortable with **frontend + backend coordination**
+- 📈 Focused on **learning, consistency, and clean code practices**
